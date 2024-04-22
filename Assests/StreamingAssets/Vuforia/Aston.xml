@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ar" size="0.500000 0.500000" />
+    <ImageTarget name="ear" size="0.500000 0.500000" />
+    <ImageTarget name="hydrogen" size="0.500000 0.500000" />
+    <ImageTarget name="math" size="0.500000 0.500000" />
+    <ImageTarget name="oxygene" size="0.500000 0.500000" />
+    <ImageTarget name="20240409_093448" size="0.300000 0.435042" />
+  </Tracking>
+</QCARConfig>
